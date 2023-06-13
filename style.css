@@ -1,0 +1,22 @@
+p {
+  text-shadow: 0px 5px 10px rgba(255, 255, 255, 0.71);
+  background: rgba(172, 222, 240, 0.5);
+  border-radius: 16px;
+}
+
+.background {
+  background-color: midnightblue;
+  border-radius: 10px;
+  box-shadow: 0 4px 30px black;
+}
+
+.button,
+.button:hover {
+  color: white;
+  background: rgba(238, 26, 26, 0.5);
+  border-radius: 10px;
+}
+
+.button:hover {
+  box-shadow: 0 4px 30px black;
+}
